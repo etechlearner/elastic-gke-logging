@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/etechlearner/elastic-gke-logging/blob/master/resource/elastic-gke-loggin-banner.png)
+![Welcome Banner](https://raw.githubusercontent.com/etechlearner/elastic-gke-logging/master/resource/Screenshot1.png)
 
 ## How To Set Up an Elasticsearch, Fluentd and Kibana (EFK) Logging Stack on Kubernetes
 
