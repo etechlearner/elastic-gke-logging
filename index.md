@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/GoogleCloudPlatform/click-to-deploy/blob/master/k8s/elastic-gke-logging/resources/elastic-gke-logging-architecture.png)
+![Welcome Banner](https://github.com/etechlearner/elastic-gke-logging/blob/master/resource/elastic-gke-loggin-banner.png)
 
 ## How To Set Up an Elasticsearch, Fluentd and Kibana (EFK) Logging Stack on Kubernetes
 
